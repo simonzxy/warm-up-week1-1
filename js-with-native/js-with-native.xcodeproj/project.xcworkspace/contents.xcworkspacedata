@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:warm-up-week1-1.xcodeproj">
+      location = "self:js-with-native.xcodeproj">
    </FileRef>
 </Workspace>

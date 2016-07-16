@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  warm-up-week1-1
+//  js-with-native
 //
-//  Created by 朱益达 on 16/7/16.
+//  Created by 朱益达 on 16/7/17.
 //  Copyright © 2016年 朱益达. All rights reserved.
 //
 
